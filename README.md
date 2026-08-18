@@ -35,6 +35,8 @@ Bu proje 8 kişilik bir ekip tarafından geliştirilmiştir.
 
 Ben projede **Genetik Algoritma (GA)** modülünün geliştirilmesi üzerinde çalıştım. Bu kapsamda çözüm üretme mekanizmaları, seçim süreçleri, çaprazlama (crossover), mutasyon işlemleri ve algoritmanın performans değerlendirme aşamalarında görev aldım.
 
+https://github.com/MetehanGuclu06/network-routing-optimization/blob/main/src/algorithms/ga.py
+
 
 ## Kurulum
 
